@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+
+#heading {
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.inputs {
+    text-align: center;
+    margin: 25px;
+}
+
+.inputs input {
+    width: 250px; 
+    height: 1.5rem ;
+}
+#submit {
+    width: 100px; 
+    height: 1.5rem ;
+}
+p {
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
